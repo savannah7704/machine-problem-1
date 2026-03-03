@@ -7,6 +7,7 @@ This program implements the uniform cost search algorithm for solving a maze
 (1 point cost for each move)
 """
 
+
 import numpy as np
 import queue # Needed for frontier queue
 from heapq import heapify
@@ -110,8 +111,8 @@ class MazeState():
 # Display the heading info
 print('Artificial Intelligence')
 print('MP1: Robot navigation')
-print('SEMESTER: Spring 2024')
-print('NAME: [your name]')
+print('SEMESTER: Spring 2026')
+print('NAME: Savannah Stumpf, Alexander Tardecilla, and Anthony Viglielmo')
 print()
 
 print('INITIAL MAZE')
