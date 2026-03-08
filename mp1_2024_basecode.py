@@ -235,4 +235,5 @@ for i, moves in enumerate(possible_moves):
             best_move = disabled_move
 
 
-print('\n BEST MOVE:', best_move) 
+print('BEST MOVE: disable ', best_move)
+print('SHORTEST PATH LENGTH FOR BEST MOVE: ', best_length)
